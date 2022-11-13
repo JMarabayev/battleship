@@ -1,4 +1,5 @@
 # Welcome to my Python Battleships game!
+# !!! Initial coding and deployment was done on another repository [Link to repository](https://github.com/JMarabayev/battleships)!!!
 Battleships is a common game which I attempted to recreate in Python 
 
 User will take try to guess the position of the ships that a computer randomly generates, unlike the traditional game in which there are different sized ships and both player and computer lay them out on their respective boards and take turns guessing. 
